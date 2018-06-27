@@ -1,0 +1,6 @@
+Feature: Test login feature
+
+  @first
+  Scenario: verify application url [90m# src/test/resources/features/Test.feature:4[0m
+    [32mGiven [0m[32mApplication Url[0m          [90m# Login.application_Url()[0m
+    [32mThen [0m[32mI Click on Gmail Link[0m     [90m# Login.i_Click_on_Gmail_Link1()[0m
